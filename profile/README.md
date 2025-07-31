@@ -14,7 +14,7 @@
 
 **It is mainly used in fields such as IoT, energy, power, IoV (Internet of Vehicles), smart government, IT operation management, and securities.**  KWDB is dedicated to offer a comprehensive platform for data storage, management, and analysis across various industries, supporting enterprises in their digital transformation and unlocking greater value from their data at lower costs.
 
-![img](https://github.com/KWDB/KWDB/raw/master/static/arch_en.png)
+![img](https://github.com/KWDB/KWDB/raw/master/static/feature_en.png)
 
 **KWDB offers** extensive support for different roles:
 
